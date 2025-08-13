@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+My name is Sebastian, and I'm a Master of Science in Business Intelligence with a deep interest in all things Python and Data Science.
+
+- 🔭 I’m currently working on uncovering patterns and opportunities in a large procurement dataset, building a stable data pipeline for better decision-making.
+- 🌱 I recently finished my Master's Thesis, using influence-weighted sentiment to forecast market movements and asset returns, check it out [here](https://github.com/SebastianG-J/Master-Thesis)
+- 📫 How to reach me: [mailto:sebastian@grunnet-jensen.dk](sebastian@grunnet-jensen.dk)
+- ⚡ Fun fact: I once played against [Erling Haaland](https://www.google.com/search?num=10&sa=X&sca_esv=827ca067cae54b45&rlz=1C1GCEU_enDK1047DK1047&sxsrf=AE3TifMMr3ib9aVJnvBW2oV6qWHm-_h3jQ:1755084567810&udm=2&fbs=AIIjpHw2KGh6wpocn18KLjPMw8n57XoVNo77u2wv3yhVkwnmKKGywFCtwth0nIjfnLPKgwUcE7xB40X4X1Cr57WfYVtLprouEJMibdpgcjrNRTtP026IvlYZcpdzTnf7qsZlhOsH8LVfSsdGPyIjaYiG6IGA4jlYTxkRB15POw1nSyEikwTHlKbw2JCyYYs1w7kIA-MrmYkv&q=Erling+haaland&ved=2ahUKEwjmhdzB14ePAxU-Q_EDHQ1_FM8QtKgLegQIEBAB&biw=1920&bih=911&dpr=1) when he was at Bryne - we lost 19-1 😅⚽
+
 <!--
 **SebastianG-J/sebastiang-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
