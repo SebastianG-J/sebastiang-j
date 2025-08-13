@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Sebastian, and I'm a Master of Science in Business Intelligence with a deep interest in all things Python and Data Science.
+My name is Sebastian, and I'm a Master of Science in Business Intelligence with a deep interest in all things Python and Data Science!
 
 - 🔭 I’m currently working on uncovering patterns and opportunities in a large procurement dataset, building a stable data pipeline for better decision-making.
 - 🌱 I recently finished my Master's Thesis, using influence-weighted sentiment to forecast market movements and asset returns, check it out [here](https://github.com/SebastianG-J/Master-Thesis)
